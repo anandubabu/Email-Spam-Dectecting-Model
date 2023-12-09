@@ -1,4 +1,4 @@
-# Email-Spam-Dectecting-Model
+# Email-Spam-Dectecting-Model Using NLP
 
 ## Overview
 This project focuses on the development of an email spam detection system using Natural Language Processing (NLP) and machine learning models. The primary objective is to identify and filter out unwanted spam emails, ensuring that legitimate messages reach the inbox.
